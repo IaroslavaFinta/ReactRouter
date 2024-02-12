@@ -47,5 +47,32 @@ body > div {
 
 .home {
   background-color: burlywood;
+  color: white;
+  padding-right: 10px;
 }
 
+.yellow {
+  background-color: yellow;
+  color: white;
+}
+
+.brown {
+  background-color: brown;
+  color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  color: black;
+  display: inline-block;
+}
+
+.foot {
+  padding-right: 10px;
+}
